@@ -2,7 +2,7 @@
 - 👀 I’m interested in Penetration Testing/Graphics Designing
 - 🌱 I’m currently learning other Programming languages
 - 💞️ I’m looking to collaborate on other project
-- 📫 Reach me via discord jekz#test
+- 📫 Reach me via discord jekz#tests
 
 <!---
 kejzhin/kejzhin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
